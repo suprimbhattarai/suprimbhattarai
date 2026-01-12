@@ -7,9 +7,12 @@
   
 
 - 🔭 I’m currently working on [Homesphere](https://homesphere.co.nz)  
-  
 
-- 🤝Know me better with [My Resume](https://drive.google.com/file/d/1GHWbY7QwwWCKZW02Zhjq5WXO1_NF8542/view?usp=sharing)  
+- 💡I'm currently learning full stack driven backend stacks like <b>Django, .NET and Node js </b> along with frontend stacks like <b>Reactjs and NEXTjs</b>   
+
+- 🤝Know me better with [My Resume](https://drive.google.com/file/d/1GHWbY7QwwWCKZW02Zhjq5WXO1_NF8542/view?usp=sharing)
+
+- 😊You can connect with through [suprimbhattarai2004@gmail.com](suprimbhattarai2004@gmail.com)
   
 
 <br/>  
