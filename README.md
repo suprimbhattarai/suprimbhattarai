@@ -6,7 +6,6 @@
 ### <div align="center"> Hi, I am Suprim Bhattarai yours truly full stack developer striving toward a future driven by Computer Science</div>  
   
 
-- 🔭 I’m currently working on [Homesphere](https://homesphere.co.nz)  
 
 - 💡I'm currently learning full stack driven backend stacks like <b>Django, .NET and Node js </b> along with frontend stacks like <b>Reactjs and NEXTjs</b>   
 
